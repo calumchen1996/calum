@@ -1,0 +1,5 @@
+Trigger file to regenerate PPTX
+
+This file was added to trigger the Generate PPTX workflow.
+
+Triggered by Copilot at 2026-06-03T07:58:00Z
